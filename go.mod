@@ -63,3 +63,6 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
+
+// Personal fork of sivchari/kumo for local experimentation.
+// Upstream: https://github.com/sivchari/kumo
