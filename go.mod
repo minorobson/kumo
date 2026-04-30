@@ -66,3 +66,7 @@ require (
 
 // Personal fork of sivchari/kumo for local experimentation.
 // Upstream: https://github.com/sivchari/kumo
+//
+// Notable changes from upstream:
+// - No upstream changes yet; using this fork to study controller-runtime patterns
+//   and experiment with custom reconciler logic against a local kind cluster.
